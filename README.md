@@ -1,11 +1,11 @@
 # cohort_analysis
 
-# Keterangan :
+## Keterangan :
 
-# pandas dan numpy adalah library yang digunakan dalam praktek kali ini
-# Data.csv adalah data yang kita upload
-# data.head() adalah bahasa untuk menampilkan 5 data teratas
-# Item daftar
+### pandas dan numpy adalah library yang digunakan dalam praktek kali ini
+### Data.csv adalah data yang kita upload
+### data.head() adalah bahasa untuk menampilkan 5 data teratas
+### Item daftar
 
 import pandas as pd
 import numpy as np
